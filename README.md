@@ -1,15 +1,16 @@
 # RELEASE NOTE
 All notable changes to this project will be documented in this file.
 
-## [2019-04-03 14:57:05] 
-## Changelog
+## [0.0.1-alpha.77] -2019-04-03 14:57:05
+
+### Added
+
+### Changed
 - changes for hunter Dougles.
 - changes for password Feild.
 
-## Modified files
-- groupComponent.js
-- groupComponentFile.html
-- newDeviceComponent.js
-- newDeviceComponentFile.html
+### Removed
+
+### Fixed
 
 
